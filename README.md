@@ -1,5 +1,11 @@
 # Used Cars Price Prediction to Optimize Automotive Platform Pricing Strategy
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 Predicting Used Cars Price to Support Company's Pricing Strategy and Decisions
+
 ---
 Data Source: [Data Source](https://www.kaggle.com/datasets/raihanmuhith/saudi-arabia-used-car)
 ---
