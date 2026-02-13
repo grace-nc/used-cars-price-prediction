@@ -30,7 +30,7 @@ To stay competitive, the business needs a data-driven pricing model that provide
    - Clean data, handle missing values, encode categorical features, scale numerical features, analyze correlations, engineer features, and split data.
 
 4. **Machine Learning Modeling**
-   - Train multiple models, benchmark performance, tune hyperparameters, and select the best-performing model.
+   - Train multiple models, benchmark performance, tune hyperparameters, model improvement and select the best-performing model.
 
 5. **Analysis**
    - Interpret feature importance, compare actual vs predicted prices, and assess business impact through cost-benefit analysis.
