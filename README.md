@@ -3,6 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
 
 Predicting Used Cars Price to Support Company's Pricing Strategy and Decisions
@@ -83,3 +85,6 @@ This project successfully developed an XGBoost-based regression model to predict
 Cost-benefit evaluation shows that using the model can reduce potential losses by **10.5 M SAR**, demonstrating clear financial value. Overall, the model provides an effective data-driven tool to support more accurate pricing, improve market transparency, and enhance business performance for used-car transactions in Saudi Arabia.
 
 ---
+
+## 👤 Author
+Grace Natalie Catherine | Data Science & Machine Learning Portfolio Project
