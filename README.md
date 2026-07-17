@@ -58,7 +58,7 @@ This project uses **MAPE** and **MAE**:
 
 ## Tools (Tech Stack)
 
-- **Python**: Pandas & Numpy for Data Cleaning, Preprocessing, Analysis, Matplotlib and Seaborn for Visualization & Scikit Learn for Modelling
+- **Python**: Pandas & Numpy for Data Cleaning, Preprocessing, Analysis, Matplotlib and Seaborn for Visualization & Scikit Learn as the library for Modelling
 
 ## Output (Model Results & Insights)
 
@@ -66,7 +66,7 @@ The machine learning modeling process evaluated several regression algorithms to
 
 Model Performance: 
 - MAPE: ~19%
-- MAE: ~11,832 SAR
+- MAE: ~11,863 SAR
 
 These results indicate that the model can predict used-car prices with reasonably low error, making it suitable for real-world pricing recommendations on a digital automotive platform.
 
@@ -82,7 +82,7 @@ A cost-benefit analysis comparing actual listing prices with model-recommended p
 
 ## **Conclusion**
 
-This project successfully developed an XGBoost-based regression model to predict used-car prices in Saudi Arabia. The tuned model achieved a **MAPE of ~19%** and **~MAE 11832 SAR**, indicating reliable accuracy for practical pricing support. Feature importance analysis highlights **Brand Tier** as the strongest driver of price variation.
+This project successfully developed an XGBoost-based regression model to predict used-car prices in Saudi Arabia. The tuned model achieved a **MAPE of ~19%** and **~MAE 11,863 SAR**, indicating reliable accuracy for practical pricing support. Feature importance analysis highlights **Brand Tier** as the strongest driver of price variation.
 
 Cost-benefit evaluation shows that using the model can reduce potential losses by **10.5 M SAR**, demonstrating clear financial value. Overall, the model provides an effective data-driven tool to support more accurate pricing, improve market transparency, and enhance business performance for used-car transactions in Saudi Arabia.
 
