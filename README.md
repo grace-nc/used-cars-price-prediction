@@ -60,7 +60,7 @@ This project uses **MAPE** and **MAE**:
 
 - **Python**: Pandas & Numpy for Data Cleaning, Preprocessing, Analysis, Matplotlib and Seaborn for Visualization & Scikit Learn as the library for Modelling
 
-## Output (Model Results & Insights)
+## Output (Model Results)
 
 The machine learning modeling process evaluated several regression algorithms to identify the most accurate approach for predicting used-car prices in Saudi Arabia. After hyperparameter tuning and performance comparison, XGBoost Regressor emerged as the best-performing model.
 
